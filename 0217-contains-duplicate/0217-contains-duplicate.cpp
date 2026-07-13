@@ -5,7 +5,6 @@ public:
         for(auto x:nums){
             if(seen.count(x)){
                 return true;
-                break;
             }
             seen.insert(x);
         }
