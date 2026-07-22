@@ -1,6 +1,7 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
+        if(t.size() > s.size()) return "";
         unordered_map<char, int> mp;
         for(char c:t) mp[c]++;
 
