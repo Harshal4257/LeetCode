@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harshal4257/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Harshal4257/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Harshal4257/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1470-shuffle-the-array](https://github.com/Harshal4257/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Harshal4257/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal4257/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
