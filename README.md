@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Harshal4257/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal4257/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harshal4257/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Harshal4257/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Harshal4257/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Harshal4257/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Harshal4257/LeetCode/tree/master/0853-car-fleet) |
