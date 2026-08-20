@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshal4257/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Harshal4257/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshal4257/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/Harshal4257/LeetCode/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Harshal4257/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Harshal4257/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshal4257/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Harshal4257/LeetCode/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
