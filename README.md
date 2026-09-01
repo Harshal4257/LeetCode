@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Harshal4257/LeetCode/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/Harshal4257/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal4257/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshal4257/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Harshal4257/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/Harshal4257/LeetCode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Harshal4257/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshal4257/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal4257/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Harshal4257/LeetCode/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshal4257/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshal4257/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
 | ------- |
