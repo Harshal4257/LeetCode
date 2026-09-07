@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshal4257/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Harshal4257/LeetCode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal4257/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Harshal4257/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshal4257/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Harshal4257/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Harshal4257/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshal4257/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Harshal4257/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshal4257/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Harshal4257/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/Harshal4257/LeetCode/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshal4257/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -480,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Harshal4257/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Harshal4257/LeetCode/tree/master/0052-n-queens-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Harshal4257/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
