@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshal4257/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshal4257/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Harshal4257/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshal4257/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshal4257/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Harshal4257/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshal4257/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harshal4257/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Harshal4257/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harshal4257/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshal4257/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Harshal4257/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Harshal4257/LeetCode/tree/master/0509-fibonacci-number) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harshal4257/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harshal4257/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
