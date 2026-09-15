@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Harshal4257/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Harshal4257/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Harshal4257/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshal4257/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Harshal4257/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Harshal4257/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Harshal4257/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshal4257/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Harshal4257/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Harshal4257/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshal4257/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
